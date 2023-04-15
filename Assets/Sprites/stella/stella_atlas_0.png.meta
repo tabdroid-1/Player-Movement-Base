@@ -1,0 +1,1478 @@
+fileFormatVersion: 2
+guid: 075b6a2069d1d49e8b7e41af58a46883
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stella_atlas_0_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1774
+        width: 126
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddcc0baa319147e4aec61ca1f6bf74e
+      internalID: 1193711531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1774
+        width: 146
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea4b2c3fe46c4eccacc703ac932c10e
+      internalID: -538027814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1968
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9f9d842a2c54e76a9c5295f7e0a507
+      internalID: 1965812874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1777
+        width: 141
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107ac74191dde41a0b2975b4bc934228
+      internalID: 1869212015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1775
+        width: 127
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ae34e8d91d84983a0d7f52e6528cc6
+      internalID: -108432603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_5
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1772
+        width: 128
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839d4def3a242473a8c3315eb303ff6c
+      internalID: -2125843190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1775
+        width: 129
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a024bdbecdc47209c01f44d06ad6c5
+      internalID: -634755905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_7
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1772
+        width: 139
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f4bfb48e18f4abd9c027bd61e2a686
+      internalID: 320767516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_8
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1775
+        width: 135
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ff297170e374b0da4cc2d68ce3a35a
+      internalID: 200136179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_9
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1773
+        width: 129
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1ba598ad9ec4be7910163473a2af1f
+      internalID: 835596690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_10
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1773
+        width: 125
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052576bb0f9d540bd96e72f37116a732
+      internalID: 41316686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_11
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1777
+        width: 130
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c261b34859b040339f3f4d3326b2914
+      internalID: -551352189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_12
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1774
+        width: 125
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f716719d0b41c4728b389bbfe47ec3f4
+      internalID: 988677405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1557
+        width: 125
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db9219293ba0455bbd31e5d289a80d0
+      internalID: 2103073020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_15
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1550
+        width: 124
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd0643c8f0a440cba85b5367316d010
+      internalID: 1278701626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1552
+        width: 128
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f8712b2180748e49e5263b555be736
+      internalID: 1211016296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_17
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1550
+        width: 133
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b5cd743b5b34b73b73b3924dd79eee
+      internalID: -77202516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1250
+        width: 105
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502e640bb930f4325aa8e0ac76c47daa
+      internalID: -1502219220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1252
+        width: 107
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c344b7b90ae354dc8a98b47bb454edfd
+      internalID: 1818015311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1262
+        width: 113
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2429fede5527946aeb167cd1ff99a5d1
+      internalID: -1799265882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1283
+        width: 126
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4148eb6bdbaf24ad9bedd1ad2805bf23
+      internalID: 889833262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1310
+        width: 138
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c2bc084a3e6484d8f91766ef9b403d
+      internalID: 709888315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_24
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1316
+        width: 158
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b247bf4ba3b4f47138d902f9bec141fa
+      internalID: 1563359105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_25
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1320
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bdcfbcce71644fc9e7f92c5bf6f5cf
+      internalID: -2027233203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_26
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1312
+        width: 157
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1b2f0d7ec5b45b1b6914423e7deabe
+      internalID: -683054384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_27
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1307
+        width: 163
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec22ad5d79344a62a341a67bc541baf
+      internalID: 2130209271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_28
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1294
+        width: 151
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a16eb780ba1a4253b29f53ae91c4145
+      internalID: 762580550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_29
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1274
+        width: 159
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a33a792715340eaae7cc733a0dc34a
+      internalID: 1521085416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_30
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1263
+        width: 153
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fc65ddc445b4f4d8bc97b0f68c54d5
+      internalID: -114481396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_31
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1275
+        width: 146
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0c8d31998b44f6f88d6158177104d5
+      internalID: -1999261732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1023
+        width: 143
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a091838a84234c6499471878499aa4b
+      internalID: -459139202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1021
+        width: 133
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874eea17b37434eccb81fb0e0c9e22cb
+      internalID: -1254590977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1001
+        width: 124
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c9e5d7a694a42738486c8eb54652d7
+      internalID: -2143197845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 787
+        width: 126
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521af4b6403f5471691fd72324794c27
+      internalID: 1599084041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 788
+        width: 133
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a41010e0907476296e54e30953250c
+      internalID: -2131977305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 788
+        width: 129
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f9bda119a7a469182d77268cca578d
+      internalID: -1087194245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 786
+        width: 129
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d27289d8cd894a9da07c1103646ba81
+      internalID: -1689768447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_43
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 785
+        width: 127
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825515514fbe14309b7b3c0b5ee90059
+      internalID: -192126828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_44
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 790
+        width: 124
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6971d9c33523e425bbac7c4d9fba87e7
+      internalID: 13153491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_45
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 794
+        width: 124
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2539f30560d445bb845f91f6e7c8b83
+      internalID: -2119543123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_46
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 786
+        width: 119
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87139bf7b1815421ea8defc6b1288ffc
+      internalID: -1029061906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_47
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 778
+        width: 118
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8175ad6016d4c408695a24923bc39d
+      internalID: 70921209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_48
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 781
+        width: 118
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3e13913611f4221beab395e1b5f58a
+      internalID: -550624041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_49
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 775
+        width: 119
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e449045e53a144ef97b24dae2217de2
+      internalID: -1409139972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_50
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 777
+        width: 119
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce649d1543bc454cb743291b1e30603
+      internalID: 929156009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_51
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 780
+        width: 119
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382f403ba231f46f293e1272c559a6c8
+      internalID: -2085831773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_52
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 777
+        width: 119
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f037f2c4bd674f5baa502a9d3348413
+      internalID: -1218484714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 547
+        width: 142
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c708b2203e6942269ede4cda0eb072e
+      internalID: 1272863625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 714
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e0449852e384649916d57ac54c960e
+      internalID: -1093059604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_57
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 545
+        width: 132
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c12ec32c541b423781ede57ec181bd9
+      internalID: -1995482012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_58
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 541
+        width: 125
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea2cd19fa7734cf88939f2ac713baf1
+      internalID: 1177094517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_59
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 540
+        width: 142
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdd66f34fd0748c589e4a456da4de72
+      internalID: -378721824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_63
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 546
+        width: 139
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b12fe5b91e804247885a73f2943707d
+      internalID: -2013138412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_64
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 548
+        width: 129
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce931f7cae65c4ec081fcc67e10487ba
+      internalID: -589352936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_65
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 539
+        width: 141
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4984bc4a071c4a52abbeab5b84abeb7
+      internalID: 1923048682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_66
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 546
+        width: 147
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3c87654f2ab4da89be458bdb2623fc
+      internalID: -1864703023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_68
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 321
+        width: 142
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904dc0c80eeb24a1fadb74f14108cc80
+      internalID: -988821966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 316
+        width: 153
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0053bbce7514aaf95258d8f9522ba9
+      internalID: -565077815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_71
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 326
+        width: 142
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634db378aaf654529ab4548352b72cab
+      internalID: -1368579220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_72
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 322
+        width: 118
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4255459fadcd7422fb5b3b19b63cae65
+      internalID: -871019874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_atlas_0_73
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 311
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84467ac2fb57d4e15a7638d1a55d52cd
+      internalID: 1457780460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stella_atlas_0_0: 1193711531
+      stella_atlas_0_1: -538027814
+      stella_atlas_0_10: 41316686
+      stella_atlas_0_11: -551352189
+      stella_atlas_0_12: 988677405
+      stella_atlas_0_13: 2103073020
+      stella_atlas_0_14: 1173128782
+      stella_atlas_0_15: 1278701626
+      stella_atlas_0_16: 1211016296
+      stella_atlas_0_17: -77202516
+      stella_atlas_0_18: -1502219220
+      stella_atlas_0_19: 1818015311
+      stella_atlas_0_2: 1965812874
+      stella_atlas_0_20: 837609525
+      stella_atlas_0_21: -1799265882
+      stella_atlas_0_22: 889833262
+      stella_atlas_0_23: 709888315
+      stella_atlas_0_24: 1563359105
+      stella_atlas_0_25: -2027233203
+      stella_atlas_0_26: -683054384
+      stella_atlas_0_27: 2130209271
+      stella_atlas_0_28: 762580550
+      stella_atlas_0_29: 1521085416
+      stella_atlas_0_3: 1869212015
+      stella_atlas_0_30: -114481396
+      stella_atlas_0_31: -1999261732
+      stella_atlas_0_32: -2067616600
+      stella_atlas_0_33: 243131225
+      stella_atlas_0_34: 1447639216
+      stella_atlas_0_35: 1579391145
+      stella_atlas_0_36: -459139202
+      stella_atlas_0_37: -1254590977
+      stella_atlas_0_38: -2143197845
+      stella_atlas_0_39: 1599084041
+      stella_atlas_0_4: -108432603
+      stella_atlas_0_40: -2131977305
+      stella_atlas_0_41: -1087194245
+      stella_atlas_0_42: -1689768447
+      stella_atlas_0_43: -192126828
+      stella_atlas_0_44: 13153491
+      stella_atlas_0_45: -2119543123
+      stella_atlas_0_46: -1029061906
+      stella_atlas_0_47: 70921209
+      stella_atlas_0_48: -550624041
+      stella_atlas_0_49: -1409139972
+      stella_atlas_0_5: -2125843190
+      stella_atlas_0_50: 929156009
+      stella_atlas_0_51: -2085831773
+      stella_atlas_0_52: -1218484714
+      stella_atlas_0_53: 1791685307
+      stella_atlas_0_54: -710438428
+      stella_atlas_0_55: 1272863625
+      stella_atlas_0_56: -1093059604
+      stella_atlas_0_57: -1995482012
+      stella_atlas_0_58: 1177094517
+      stella_atlas_0_59: -378721824
+      stella_atlas_0_6: -634755905
+      stella_atlas_0_60: -2125943641
+      stella_atlas_0_61: -1080906925
+      stella_atlas_0_62: 892873656
+      stella_atlas_0_63: -2013138412
+      stella_atlas_0_64: -589352936
+      stella_atlas_0_65: 1923048682
+      stella_atlas_0_66: -1864703023
+      stella_atlas_0_67: -828818161
+      stella_atlas_0_68: -988821966
+      stella_atlas_0_69: 1577367147
+      stella_atlas_0_7: 320767516
+      stella_atlas_0_70: -565077815
+      stella_atlas_0_71: -1368579220
+      stella_atlas_0_72: -871019874
+      stella_atlas_0_73: 1457780460
+      stella_atlas_0_8: 200136179
+      stella_atlas_0_9: 835596690
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
